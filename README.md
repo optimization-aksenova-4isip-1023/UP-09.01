@@ -1,1 +1,1 @@
-# educational-practice
+# Учебная практика
